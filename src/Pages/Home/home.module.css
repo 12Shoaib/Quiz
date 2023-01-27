@@ -1,0 +1,83 @@
+.mainComponent{
+  display: flex;
+}
+.left{
+    flex: 1;
+    background-color: rgb(255, 153, 187);
+    height: 100vh;
+}
+.right{
+    flex:1;
+    background-color: #c9eae6;
+   
+}
+.icon{
+    font-size: 6rem;
+    color: white;
+    padding: 0px;
+    margin: 0px;
+    margin-top: 3.5rem;
+    padding-left: 2rem;
+}
+.icon1{
+    font-size: 5rem;
+    color: white;
+    padding: 0px;
+    margin: 0px;
+    padding-left: 7rem;
+}
+
+.name{
+    color:rgb(255, 94, 140);
+}
+.heading{
+    background-color: white;
+    width: 26rem;
+    padding: 0px;
+    margin: 0px;
+    margin-left: 8rem;
+    padding: 1rem 3rem;
+    font-size: 1.6rem;
+    text-transform: uppercase;
+    font-family:monospace ;
+    letter-spacing: 0.1rem;
+    box-shadow: 4px 4px 19px 1px black;
+}
+.dropDownContent{
+    background-color: white;
+    width: 25rem;
+    height: 22rem;
+    margin-left: 8rem ;
+    margin-top: 5rem;
+    box-shadow: 4px 4px 19px 1px rgb(85, 84, 84);
+    padding: 0.5rem;
+    border: 2px solid rgb(255, 94, 140);
+    border: 2px solid black;
+
+}
+.start{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2.5rem;
+    gap: 3rem;
+}
+.heading2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    letter-spacing: 0.1rem;
+    color:rgb(255, 94, 140);
+    padding-bottom: 1.8rem;
+
+}
+.Icon2{
+    padding: 0px;
+    margin: 0px;
+    font-size: 25px;
+}
+.topic{
+    font-size: 20px;
+    font-weight: 650;
+}
