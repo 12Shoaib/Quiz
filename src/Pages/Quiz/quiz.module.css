@@ -52,3 +52,8 @@ h2{
     font-weight: 500;
     letter-spacing: 0.1rem;
 }
+.partyIcon{
+    color: blueviolet;
+    font-size: 4rem;
+    font-weight: bold;
+}
